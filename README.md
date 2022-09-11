@@ -1,6 +1,5 @@
 # EnsPrimaryContractNamer
 
-
 This is for primary naming of contracts on the Ethereum network.
 
 ## Usage
